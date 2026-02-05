@@ -371,15 +371,4 @@ Sistema de Gestión de Inventario - Examen Final
 
 ---
 
-## 🎓 Notas para Presentación
 
-**Puntos a destacar:**
-- API REST profesional con FastAPI
-- Base de datos PostgreSQL con restricciones
-- Validaciones en múltiples niveles
-- Documentación automática
-- Endpoints adicionales (estadísticas, consultas)
-- Desplegado en la nube (Railway)
-- Código limpio y bien estructurado
-
-**¡Éxito en tu examen! 20/20** 🎯

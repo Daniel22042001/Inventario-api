@@ -129,6 +129,7 @@ async def root():
     }
 
 @app.get("/health", tags=["Health"])
+@app.head("/health", tags=["Health"])
 async def health_check():
     """
     Health check - Verificar estado de la API y base de datos
